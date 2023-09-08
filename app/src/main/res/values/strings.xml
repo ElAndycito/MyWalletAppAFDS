@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyWalletAppAFDS</string>
+    <string name="txt_new_account">Nueva Cuenta</string>
 </resources>
